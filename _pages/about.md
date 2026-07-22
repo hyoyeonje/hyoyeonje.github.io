@@ -14,7 +14,7 @@ redirect_from:
 
 [부산대학교 건축학과](https://archi.pusan.ac.kr/archi/index.do)에서 학사를, [서울대학교 도시설계 협동과정](https://ipud.snu.ac.kr/)에서 석사를 마쳤으며, [건축도시공간연구소 AURI](https://www.auri.re.kr/)에서 조사연구원으로, [한아도시연구소 건축사사무소](http://www.han-a.co.kr/)에서 연구원 및 주임연구원으로 근무하였습니다. 현재 [서울대학교 건축학과](https://architecture.snu.ac.kr/)에서 박사학위 수여를 앞두고 있습니다.
 
-#자세한 학력 및 경력 사항은 [CV](https://)를 참조하시기 바랍니다.
+
 
 ---
 I am expected to receive my Ph.D. in Architecture from the College of Engineering, Seoul National University, in August 2026. My doctoral dissertation is entitled *"Interpreting the Mechanism of Shared E-Scooter Use under Mobility Constraints in Urban Space: Implications for Daily Activity Accessibility."*
@@ -23,7 +23,6 @@ My research is rooted in a deep interest in people's everyday life in urban spac
 
 I received my B.Arch. in [Architecture from Pusan National University](https://archi.pusan.ac.kr/archi/index.do) and my M.S. in the [Interdisciplinary Program Urban Design from Seoul National University](https://ipud.snu.ac.kr/). I worked as a Research Assistant at the [Architecture & Urban Research Institute](https://www.auri.re.kr/), and later as a Researcher and Senior Researcher at [HAN-A Urban Research Institute](http://www.han-a.co.kr/), an architectural firm specializing in urban planning and design. I am currently completing my Ph.D. in [Architecture at Seoul National University](https://architecture.snu.ac.kr/).
 
-#For more information about my academic background and professional experience, please see my [CV](https://).
 
 
 
