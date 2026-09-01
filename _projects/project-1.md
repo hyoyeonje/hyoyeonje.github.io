@@ -1,8 +1,8 @@
 ---
 title: "Sample Project"
-excerpt: "This is a sample project for testing."
 collection: projects
 permalink: /projects/sample-project/
+excerpt: "This is a sample project for testing."
 ---
 
 This is a sample project page.
