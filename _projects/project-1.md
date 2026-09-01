@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Sample Project"
+excerpt: "This is a sample project for testing."
 collection: projects
+permalink: /projects/sample-project/
 ---
 
-This is an item in your portfolio. It can have images or nice text. If you name the file .md, it will be parsed as Markdown.
+This is a sample project page.
